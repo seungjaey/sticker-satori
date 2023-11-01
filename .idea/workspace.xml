@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="051c1ba0-9783-4b97-b02d-755c5f5d3999" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/api/hello.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/api/hello.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="051c1ba0-9783-4b97-b02d-755c5f5d3999" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698809616998</updated>
       <workItem from="1698809618489" duration="126000" />
-      <workItem from="1698809755899" duration="3954000" />
+      <workItem from="1698809755899" duration="4556000" />
     </task>
     <servers />
   </component>
